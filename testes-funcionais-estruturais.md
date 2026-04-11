@@ -4,9 +4,6 @@
 > Projeto: LocalEats  
 > Integrantes do grupo:  
 > - Gabriel Sbruzzi  
-> - Nome 2  
-> - Nome 3  
-> - Nome 4  
 
 ---
 
